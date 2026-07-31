@@ -57,7 +57,7 @@ nav a {
 }
 
 nav a:hover {
-    background-color: #4338ca;
+    background-color: #fb0058;
 }
 
 
@@ -92,7 +92,7 @@ section p {
 
 .introducao {
     text-align: center;
-    border-top: 5px solid #4f46e5;
+    border-top: 5px solid #ff0011;
 }
 
 .introducao h2 {
