@@ -163,7 +163,7 @@ section p {
 }
 
 .quiz button:hover {
-    background-color: #312e81;
+    background-color: #cb1313;
 }
 
 #resposta {
@@ -182,7 +182,7 @@ section p {
 }
 
 .equipe p {
-    background-color: #0832bb;
+    background-color: #e40f0f;
     padding: 12px;
     border-radius: 6px;
 }
